@@ -106,7 +106,7 @@ export default {
       position: absolute;
       padding: 15px;
       right: 0;
-      top: 0;
+      top: -3px;
       color: #fff;
       font-size: 24px;
       border-radius: 50%;
